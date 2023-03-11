@@ -4,3 +4,5 @@ I used BeautifulSoup for scrapping the website.
 My final data consisted the Name, Price and Review of the given laptop.
 I saved the scrapped data in CSV file and used pandas to perform EDA.
 From the Title, I extracted model_name, RAM and storage using pandas and performed some operations and visualization on data.
+
+Website link = https://www.flipkart.com/search?q=gaming%20laptops&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
